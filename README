@@ -1,0 +1,2 @@
+If you want to see or change the password of redis
+vim redis-look/redis.conf
